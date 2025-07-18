@@ -1,0 +1,78 @@
+Amine El Omari
+Email: amineelom203@gmail.com | Phone: +212655661318
+
+Professional Summary / Objective
+A highly motivated Software Developer with robust Python expertise and a strong
+background in building scalable web applications and data-driven solutions.
+Passionate about designing innovative solutions, improving system performance, and
+leveraging advanced technologies. Proven track record in delivering projects on time
+with a focus on quality, efficiency, and user experience.
+
+Education
+CPGE (Classes Préparatoires aux Grandes Écoles) – Lycée Louis-le-Grand *
+September 2018 – June 2020 * Focus: Intensive preparation in mathematics and
+physics with an emphasis on analytical problem solving and critical thinking. *
+Achievements: * Ranked among the top 10% nationwide. * Participated in nationallevel academic competitions, securing awards in advanced mathematics and scientific
+analysis. * Completed specialized courses in advanced calculus, linear algebra, and
+theoretical physics.
+
+Skills
+Programming Languages: Python, JavaScript, Java, C++ Python
+Libraries/Frameworks: Django, Flask, NumPy, Pandas, Matplotlib, TensorFlow,
+PyTorch, scikit-learn Databases: MySQL, PostgreSQL, MongoDB Cloud Platforms:
+AWS, Google Cloud Platform, Azure Version Control: Git (GitHub, GitLab) Additional
+Tools: Docker, Kubernetes, CI/CD pipelines
+
+Projects
+E-commerce Web Application
+Role: Lead Developer
+Technologies: Python, Django, PostgreSQL, JavaScript, HTML, CSS
+Details:
+Designed and implemented a fully functional e-commerce platform
+integrating a secure payment gateway and comprehensive user
+management.
+Achieved a 25% increase in online sales by optimizing the user
+experience and application performance.
+Data Analysis Automation Tool
+Role: Data Engineer/Developer
+Technologies: Python, Pandas, NumPy, Matplotlib, Flask
+Details:
+Developed an automation pipeline for data ingestion, processing, and
+visualization, reducing manual effort and processing time by 40%.
+Created a dynamic web dashboard for real-time data monitoring and
+reporting, greatly enhancing data-driven decision-making.
+Machine Learning Model for Sales Forecasting
+Role: Machine Learning Engineer
+Technologies: Python, TensorFlow, scikit-learn, Pandas, Jupyter Notebook
+Details:
+Built and trained predictive models that achieved up to 92% accuracy
+in forecasting quarterly sales.
+Presented findings in cross-functional team meetings, informing
+strategic decisions and business planning.
+
+Work Experience
+Junior Software Developer
+ABC Innovations, September 2020 – Present
+Lead backend development initiatives using Python to build robust,
+scalable applications.
+Collaborated with cross-functional teams to integrate third-party APIs and
+enhance system capabilities.
+Conducted code reviews and implemented best practices to maintain high
+standards of code quality and performance.
+Software Developer Intern
+XYZ Tech Solutions, June 2020 – August 2020
+Assisted in the development of a customer relationship management
+system using Django.
+Contributed to troubleshooting, testing, and iterative improvements in
+project development.
+Gained hands-on experience in collaborative software development and
+agile methodologies.
+
+Certifications & Awards
+Certified Python Developer – Python Institute
+Innovator of the Year Award: Recognized for leading an impactful open-source
+project that enhanced business operations.
+National CPGE Competition: Awarded for outstanding performance in advanced
+mathematics and science disciplines.
+
+

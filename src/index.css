@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-dark {
+    background-color: #0a0a0a;
+  }
+}
+
+body {
+  /* stylelint-disable at-rule-no-unknown */
+  @apply bg-dark text-white font-body;
+}
+
+.neon-text {
+  text-shadow: 0 0 8px #00eaff, 0 0 16px #00eaff;
+}
+
+.neon-pink {
+  text-shadow: 0 0 8px #ff00cc, 0 0 16px #ff00cc;
+}
+
+.neon-green {
+  text-shadow: 0 0 8px #39ff14, 0 0 16px #39ff14;
+}
